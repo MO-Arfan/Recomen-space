@@ -1,0 +1,62 @@
+[
+    {
+        "id" : 1,
+        "name" : "Sanctuary Home",
+        "city" : "Jakarta",
+        "country" : "indonesia",
+        "price" : 48,
+        "image_url" : "https://unsplash.com/photos/Dl6H4_nzBpE",
+        "rating" : 5,
+        "address" : "Jln. Ahmad Yani No. 1",
+        "phone" : "6234567890",
+        "map_url" : "https://goo.gl/maps/uxKZfQsTn4kjhee56",
+        "photos" : [
+            "https://unsplash.com/photos/9rYfG8sWRVo",
+            "https://unsplash.com/photos/psrloDbaZc8",
+            "https://unsplash.com/photos/CGZbE-Pa1S8"
+        ],
+        "number_of_kitchens" : 2,
+        "number_of_bedrooms" : 3,
+        "number_of_cupboards" : 3
+    },
+    {
+        "id" : 2,
+        "name" : "Emerald Stay",
+        "city" : "Bandung",
+        "country" : "Germany",
+        "price" : 17,
+        "image_url" : "https://unsplash.com/photos/NegT3kIxI_k",
+        "rating" : 3,
+        "address" : "Jln. Soekartno Hatta No. 40",
+        "phone" : "12345678",
+        "map_url" : "https://goo.gl/maps/TS9t9oDNbXD8ipR46",
+        "photos" : [
+            "https://unsplash.com/photos/L7EwHkq1B2s",
+            "https://unsplash.com/photos/3wylDrjxH-E",
+            "https://unsplash.com/photos/mx4mSkK9zeo"
+        ],
+        "number_of_kitchens" : 3,
+        "number_of_bedrooms" : 2,
+        "number_of_cupboards" : 1
+    },
+    {
+        "id" : 3,
+        "name" : "Luxury Dreamwood",
+        "city" : "Seattle",
+        "country" : "Bogor",
+        "price" : 22,
+        "image_url" : "https://unsplash.com/photos/BfkTFeysp34",
+        "rating" : 4,
+        "address" : "Jln. Jendral Sudirman No. 101",
+        "phone" : "987654321",
+        "map_url" : "https://goo.gl/maps/PqJFVrfhQtK4vwca8",
+        "photos" : [
+            "https://unsplash.com/photos/dmBzB_RF_nk",
+            "https://unsplash.com/photos/7Wg_9Dq17_U",
+            "https://unsplash.com/photos/REdjtVaNyh8"
+        ],
+        "number_of_kitchens" : 2,
+        "number_of_bedrooms" : 1,
+        "number_of_cupboards" : 3
+    }
+]
